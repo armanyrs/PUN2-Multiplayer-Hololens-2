@@ -28,10 +28,10 @@ Proyek ini merupakan aplikasi Mixed Reality berbasis HoloLens yang bertujuan mem
 - Visual Studio 2022
 
 ## Anggota Kelompok 5 TRM A :
-Nasywa Labibah Rahmatillah, NRP 5323600003
-Krisna Aji Nugroho, NRP 5323600016
-Annisa Farah Angelin, NRP 5323600027
-Armany Rizqullah Saputra, NRP 5323600029
+- Nasywa Labibah Rahmatillah, NRP 5323600003
+- Krisna Aji Nugroho, NRP 5323600016
+- Annisa Farah Angelin, NRP 5323600027
+- Armany Rizqullah Saputra, NRP 5323600029
 
 ## Catatan Tambahan
 - Proyek ini dibuat dalam rangka memenuhi tugas akhir mata kuliah **Workshop Teknologi Mixed Reality**, TRM A & TRM B, PENS 2025.

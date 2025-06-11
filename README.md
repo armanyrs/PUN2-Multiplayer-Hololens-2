@@ -58,7 +58,7 @@ Pengguna bisa memanggil part PC secara suara, berdiskusi dalam mode multiplayer,
 
 ## Catatan Tambahan
 
-- Proyek ini merupakan bagian dari **Tugas Akhir Mata Kuliah Workshop Teknologi Mixed Reality**, jurusan **Teknik Rekayasa Multimedia - PENS 2025**.
+- Proyek ini merupakan bagian dari **Tugas Akhir Mata Kuliah Workshop Teknologi Mixed Reality**, jurusan **Teknologi Rekayasa Multimedia - PENS 2025**.
 - Fitur **Azure Spatial Anchor** sedang dalam tahap eksperimen dan pengembangan lanjutan.
 - File konfigurasi untuk fitur multiplayer HoloLens 2 menggunakan dependency MRTK 2.8.3, PUN2, dan Azure SDK secara terintegrasi dalam Unity.
 
